@@ -3,6 +3,8 @@
 Driver pack for the **Panasonic CF-T4GW5AXR (CF-T4G)** running
 **Windows XP SP3 32-bit**.
 
+**NOTE**: Refer to the RELEASES section for full file download.
+
 ## Drivers Installed and Tested
 
 - **Intel Chipset / INF**
